@@ -1,1 +1,0 @@
-[Observation Table DOCX Link](https://docs.google.com/document/d/1u6HGe5bbdv4ukRAKSvTsHXO_j1xIXbuK4jQuA6jdUeo/edit?usp=sharing)
