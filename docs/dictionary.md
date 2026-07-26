@@ -12,4 +12,11 @@
   Statistical (ARIMA, Exponential Smoothing) = uses math formulas on historical data.
   Machine Learning (LSTM, Prophet) = uses algorithms that learn complex patterns from data. 
 
-4.  
+4.  Telemetry 
+>  Automatically collecting and sending data (like temperature, speed, or usage) from remote devices to a central system for monitoring.
+
+5. Ingestion and digestion
+>  Input (collecting raw data)
+> Digest = Distill (cleaning & summarizing)
+
+6. 
