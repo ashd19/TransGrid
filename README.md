@@ -1,0 +1,1 @@
+an interactive analytics platform for adaptive electricity-demand and transformer-condition forecasting. The system combines recent and long-term temporal patterns, supports scenario-based simulation, and provides forecasts, risk alerts, and decision support for energy planning and predictive maintenance.
