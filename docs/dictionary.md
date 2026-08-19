@@ -7,7 +7,7 @@
 
 
 3. Time Series Forecasting 
-> Predicting future values based on past patterns in data collected over time (like stock prices or daily sales).
+> Predicting future values based on pa.st patterns in data collected over time (like stock prices or daily sales).
   Common methods =
   Statistical (ARIMA, Exponential Smoothing) = uses math formulas on historical data.
   Machine Learning (LSTM, Prophet) = uses algorithms that learn complex patterns from data. 
